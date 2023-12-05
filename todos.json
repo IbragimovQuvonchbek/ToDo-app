@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "text": "finish django project",
+        "expires": "2023-12-10",
+        "owner": 1
+    },
+    {
+        "id": 2,
+        "text": "celebrate happy new year",
+        "expires": "2024-01-01",
+        "owner": 1
+    }
+]
